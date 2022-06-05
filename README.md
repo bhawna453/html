@@ -16,7 +16,7 @@
 			height: 300px;
 			width: 300px;
 			margin: auto;
-			padding-left:50px ;
+			margin-left:50px ;
 			
 		}		
 .button-34 {
